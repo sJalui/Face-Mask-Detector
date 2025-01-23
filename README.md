@@ -68,7 +68,13 @@ Clone the repository and install the dependencies. 🚀
 ```bash
 git clone https://github.com/your-username/face-mask-detection.git
 cd face-mask-detection
-pip install -r requirements.txt
+pip install tensorflow numpy opencv-python keras imutils
+pip install flask tensorflow keras numpy opencv-python imutils matplotlib
+
+```
+Install any other libraries mentioned in subsequent error messages (e.g., Response, jsonify are part of Flask, so you won't need separate installations for them).
+```bash
+pip install flask <other-missing-library>
 ```
 ---
 
