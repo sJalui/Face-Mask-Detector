@@ -4,9 +4,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Home]()
-![Drill Through Feature](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/frontpg.png?raw=true)
-![Page with Drill Through](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/contactus.png?raw=true)
+![Home](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/frontpg.png?raw=true)
+![ContactUs](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/contactus.png?raw=true)
 
 # 🛡️ Face Mask Detection Project 😷  
 
