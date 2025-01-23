@@ -4,9 +4,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Overview]()
-![Drill Through Feature]()
-![Page with Drill Through]()
+![Home]()
+![Drill Through Feature](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/frontpg.png?raw=true)
+![Page with Drill Through](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/contactus.png?raw=true)
 
 # 🛡️ Face Mask Detection Project 😷  
 
@@ -91,12 +91,14 @@ Once the server is running, which is usually:
 ### 3️⃣ Get Started with Face Detection  
 - 🎥 **Live Detection:** Enable your webcam, and the app will perform real-time face mask detection.  
 - 📂 **Video Upload:** Prefer working with a recorded video? Upload it, and let the app process it for analysis!  
-
+- 🔐 **Signup and Login:** Make sure to create and account after which you may login anytime again!
+![Login](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/login.png?raw=true)
 ### 4️⃣ Watch the Magic Happen ✨  
 - The app will visually highlight detected faces with:  
   - ✅ **Green for Masked Faces**  
+![WithMask](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/withmask+chatbot.png?raw=true)
   - ❌ **Red for Unmasked Faces**  
-
+![WithoutMask](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/withoutmask+chatbot.png?raw=true)
 Enjoy tracking results in real-time, whether for safety monitoring or research purposes! 🚀  
 
 
