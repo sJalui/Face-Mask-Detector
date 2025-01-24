@@ -111,6 +111,6 @@ Our app also comes with a built-in **AI-powered chatbot** leveraging the **Gemin
 - ⚙️ **Seamless Experience:** Integrated within the app for a smooth user experience.  
 - 🌟 **Intelligence at Your Fingertips:** Get instant answers while using the application!  
 
-Let the chatbot enhance your interaction and provide smart support! 🚀  
+Let the chatbot enhance your interaction and provide smart support!  
 
 
