@@ -4,7 +4,7 @@ import { Widget, addResponseMessage } from "react-chat-widget";
 import "react-chat-widget/lib/styles.css";
 
 const ChatbotUi = () => {
-  const [genAI] = useState(() => new GoogleGenerativeAI("AIzaSyDbse-tqNBUtHac9snHM1TtRrQCyhf58LU"));
+  const [genAI] = useState(() => new GoogleGenerativeAI("Use your key here"));
 
   const handleNewUserMessage = async (newMessage: string) => {
 
