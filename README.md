@@ -89,7 +89,7 @@ Run the main script to start the application:
 python app.py
 ```
 ### 2️⃣ Open in Your Browser  
-Once the server is running, which is usually:  
+Once the server is running, which is usually :  
 
 📎 **[http://127.0.0.1:5000](http://127.0.0.1:5000)**  
 
