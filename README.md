@@ -103,7 +103,7 @@ Once the server is running, which is usually :
   - ✅ **Green for Masked Faces**  
 ![WithMask](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/w_mask.png?raw=true)
   - ❌ **Red for Unmasked Faces**  
-![WithoutMask]()
+![WithoutMask](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/wo_mask.png?raw=true)
 Enjoy tracking results in real-time, whether for safety monitoring or research purposes! 🚀  
 ### 5️⃣ Interact with the Chatbot 🤖  
 Our app also comes with a built-in **AI-powered chatbot** leveraging the **Gemini API**:  
