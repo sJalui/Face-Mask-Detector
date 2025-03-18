@@ -101,7 +101,7 @@ Once the server is running, which is usually :
 ### 4️⃣ Watch the Magic Happen ✨  
 - The app will visually highlight detected faces with:  
   - ✅ **Green for Masked Faces**  
-![WithMask]([https://github.com/sJalui/Face-Mask-Detector/blob/main/images/withmask+chatbot.png?raw=true](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/w_mask.png?raw=true))
+![WithMask](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/w_mask.png?raw=true)
   - ❌ **Red for Unmasked Faces**  
 ![WithoutMask]()
 Enjoy tracking results in real-time, whether for safety monitoring or research purposes! 🚀  
