@@ -108,7 +108,7 @@ Enjoy tracking results in real-time, whether for safety monitoring or research p
 ### 5️⃣ Interact with the Chatbot 🤖  
 Our app also comes with a built-in **AI-powered chatbot** leveraging the **Gemini API**:  
 - 💬 **Get Guidance:** Ask the chatbot about features, face mask safety, or technical queries.  
-- ⚙️ **Seamless Experience:** Integrated within the app for a smooth user experience.  
+- ⚙️ **Seamless Experience:** Integrated within the app for a smoother user experience.  
 - 🌟 **Intelligence at Your Fingertips:** Get instant answers while using the application!  
 
 Let the chatbot enhance your interaction and provide smart support!  
