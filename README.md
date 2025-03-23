@@ -67,7 +67,7 @@ Clone the repository and install the dependencies. 🚀
 
 ```bash
 git clone https://github.com/your-username/face-mask-detection.git
-cd face-mask-detection
+cd facemask_detection
 pip install tensorflow numpy opencv-python keras imutils
 pip install flask tensorflow keras numpy opencv-python imutils matplotlib
 
@@ -93,9 +93,21 @@ Once the server is running, which is usually :
 
 📎 **[http://127.0.0.1:5000](http://127.0.0.1:5000)**  
 
+then go to the frontend directory
+
+```bash
+cd ../frontend
+```
+
+and run 
+
+```bash
+npm start
+```
+
+
 ### 3️⃣ Get Started with Face Detection  
 - 🎥 **Live Detection:** Enable your webcam, and the app will perform real-time face mask detection.  
-- 📂 **Video Upload:** Prefer working with a recorded video? Upload it, and let the app process it for analysis!  
 - 🔐 **Signup and Login:** Make sure to create and account after which you may login anytime again!
 ![Login](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/login.png?raw=true)
 ### 4️⃣ Watch the Magic Happen ✨  
