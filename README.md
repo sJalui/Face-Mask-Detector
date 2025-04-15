@@ -7,7 +7,7 @@
 ![Home](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/frontpg.png?raw=true)
 ![ContactUs](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/contactus.png?raw=true)
 
-# 🛡️ Face Mask Detection Project 😷  
+# 🛡️ Face Mask Detection Project and Healthcare Chatbot😷  
 
 ## 🚀 Overview  
 
