@@ -117,7 +117,7 @@ npm start
   - ❌ **Red for Unmasked Faces**  
 ![WithoutMask](https://github.com/sJalui/Face-Mask-Detector/blob/main/images/wo_mask.png?raw=true)
 Enjoy tracking results in real-time, whether for safety monitoring or research purposes! 🚀  
-### 5️⃣ Interact with the Chatbot 🤖  
+### 5️⃣ Interact with Chatbot 🤖  
 Our app also comes with a built-in **AI-powered chatbot** leveraging the **Gemini API**:  
 - 💬 **Get Guidance:** Ask the chatbot about features, face mask safety, or technical queries.  
 - ⚙️ **Seamless Experience:** Integrated within the app for a smoother user experience.  
