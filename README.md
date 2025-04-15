@@ -13,7 +13,7 @@
 
 Welcome to the **Face Mask Detection** project, a cutting-edge application of **AI** and **Deep Learning** to enhance public health and safety! This project detects whether individuals are wearing masks in real-time using **Computer Vision** and **Machine Learning**. 🎉  
 
-It’s easy to use, fast, and incredibly versatile – perfect for integrating into real-world applications such as workplaces, public venues, and more!  
+It’s easier to use, fast , swift , and incredibly versatile – perfect for integrating into real-world applications such as workplaces, public venues, and more!  
 
 ---
 
