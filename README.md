@@ -50,7 +50,7 @@ Here’s a visual flow:
 
 ---
 
-## 🔧 Technologies  
+## 🔧 Technical Stack Used 
 
 The project is built using the following technologies and libraries:  
 
