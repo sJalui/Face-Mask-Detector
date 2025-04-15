@@ -38,7 +38,7 @@ It’s easy to use, fast, and incredibly versatile – perfect for integrating i
 
 ---
 
-## 🧑‍💻 How It Works  
+## 🧑‍💻 How does it Work 
 
 1. **Capture Input:** System uses your camera feed or input video.  
 2. **Process Frames:** Frames are analyzed using a pre-trained deep learning model.  
