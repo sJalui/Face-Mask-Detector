@@ -40,7 +40,7 @@ It’s easy to use, fast, and incredibly versatile – perfect for integrating i
 
 ## 🧑‍💻 How It Works  
 
-1. **Capture Input:** The system uses your camera feed or input video.  
+1. **Capture Input:** System uses your camera feed or input video.  
 2. **Process Frames:** Frames are analyzed using a pre-trained deep learning model.  
 3. **Output Results:** It displays bounding boxes around faces and labels them as "With Mask" or "Without Mask".  
 
