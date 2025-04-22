@@ -13,7 +13,7 @@
 ## 🚀 Overview
 
 Welcome to the **Face Mask Detection Project**—a cutting-edge fusion of **Computer Vision**, **Deep Learning**, and an **AI-powered Chatbot** to elevate public health and user engagement!  
-Detect masks in real-time, manage safety protocols, and interact with our intelligent chatbot for guidance—all in one seamless application.
+Detect all masks in real-time, manage safety protocols, and interact with our intelligent chatbot for guidance—all in one seamless application.
 
 ---
 
