@@ -52,11 +52,11 @@ const Home = () => {
         icon="waving.svg"
         id="product"
       />
-      <Contact
+      {/* <Contact
         title={ContactContent.title}
         content={ContactContent.text}
         id="contact"
-      />
+      /> */}
     </Container>
   );
 };
