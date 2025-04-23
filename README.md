@@ -84,9 +84,7 @@ cd facemask_detection
 # If installed, create a virtual environment using Python 3.12.10
 python3.12 -m venv venv
 
-# or py -3.12 -m venv venv on Windows
-
-# Create virtual environment
+# Or create virtual environment if default is Python 3.12.10
 python -m venv venv
 
 # Activate it (Windows example)
