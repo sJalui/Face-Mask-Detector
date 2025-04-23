@@ -81,6 +81,11 @@ npm start
 # From project root
 cd facemask_detection
 
+# If installed, create a virtual environment using Python 3.12.10
+python3.12 -m venv venv
+
+# or py -3.12 -m venv venv on Windows
+
 # Create virtual environment
 python -m venv venv
 
@@ -88,7 +93,7 @@ python -m venv venv
 venv\Scripts\activate
 
 # Install backend dependencies
-pip install flask tensorflow keras opencv-python pydub imutils matplotlib
+pip install -r requirements.txt
 
 # Run the Flask app
 python app.py
