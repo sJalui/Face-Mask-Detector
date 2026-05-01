@@ -19,7 +19,7 @@ Detect all masks in real-time, manage safety protocols, and interact with our in
 
 <!-- Social Media Links -->
 [instagram-url]: https://www.instagram.com/s_jalui  
-[linkedin-url]: https://in.linkedin.com/in/shubh-jalui-1923b1259  
+[linkedin-url]: https://in.linkedin.com/in/shubh-jalui
 [github-url]: https://www.github.com/sJalui  
 
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white  
